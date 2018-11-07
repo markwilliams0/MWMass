@@ -2,10 +2,16 @@
 My MPhys project!!!
 
 
-python_expts/RR43experiment.ipynb is the interesting bit, with light curves and growth curves
+actual_scripts/SUPERAUTOPHOTOMETRY (it's exciting ok) is the main aperture photometry notebook, including the star finding code. Will update soon with more comments.
+
+megasheet is a csv table of (among other things):
+CSS IDs
+Gaia IDs
+Co-ordinates from Gaia
+Proper motions and parallaxes from Gaia, with errors
+Periods, V-band extinctions and distances (for comparison) from Drake
+Will update with other things as they come, such as metallicities, my calculated magnitudes and distances...
+My code refers extensively to this sheet, as well as to the Spitzer data itself
 
 Also in the python_expts folder is all of the messing around with Python I've done in the last couple of weeks including photutils and astropy things
 
-GaiaID.csv is a complete list of all the Gaia IDs, funnily enough
-
-megasheet is a csv table of CSS identifiers, Spitzer coordinates, and the Gaia IDs of the best matches in the Gaia catalogue. Also a load of data from the Gaia catalogue including more accurate coordinates and astrometry stuff. Will update with other things as they come, such as periods, metallicities, my calculated magnitudes...
