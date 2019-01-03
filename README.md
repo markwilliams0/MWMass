@@ -1,6 +1,7 @@
 # MWMass
 My MPhys project!!!
 
+Update 3/1/19: uploaded mega_orbit_fit.py - the mcmc fitting script. Input data is sgr_input_data.npy and vc_rh_arrays_log.npy
 
 actual_scripts/SUPERAUTOPHOTOMETRY (it's exciting ok) is the main aperture photometry notebook, including the star finding code. Will update soon with more comments.
 
